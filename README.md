@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/contact-form-f4VS4oLtD0)
-- Live Site URL: [Add live site URL here](https://contact-form-tawny.vercel.app/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/news-homepage-5-Bgpd74Dk)
+- Live Site URL: [Add live site URL here](https://new-homepage-solution.vercel.app/)
 
 ## My process
 
