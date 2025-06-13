@@ -1,0 +1,38 @@
+header {
+  max-width: 1440px;
+  width: 100%;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 3rem;
+  width: 100%;
+  justify-content: end;
+}
+
+.nav-links a {
+  font-size: 1.4rem;
+  color: var(--dark-grayish-blue);
+}
+
+.nav-links a:hover {
+  color: var(--soft-red);
+}
+
+.menu-btn-open {
+  display: none;
+  background: none;
+  border: none;
+}
+
+.menu-btn-close {
+  display: none;
+  background: none;
+  border: none;
+}
